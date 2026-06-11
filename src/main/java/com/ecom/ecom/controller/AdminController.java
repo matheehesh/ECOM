@@ -1,4 +1,4 @@
-package com.ecom.ecom;
+package com.ecom.ecom.controller;
 
 public class AdminController {
 
